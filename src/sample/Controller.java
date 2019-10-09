@@ -1,5 +1,5 @@
-package com.company;
 
+package com.company;
 public class    Merket{
     private String Name;
     private String Location;
